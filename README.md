@@ -29,7 +29,7 @@ google-chrome index.html
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Deependra yadav**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@Deependrayadav](https://www.linkedin.com/in/deependra-yadav-185234256/)
+* GitHub: [@Deependrayadav](https://github.com/deependryadav)
